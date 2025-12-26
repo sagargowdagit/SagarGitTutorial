@@ -1,2 +1,4 @@
 Hey, I am ingesting data in this file
 Master here, let me also contribute to the project
+
+select * from employees where emp_id = 3;
