@@ -3,4 +3,4 @@ Master here, let me also contribute to the project
 
 
 
-Select * from employees where employee_id = 2;
+Select * from employees where emp_id = 2;
